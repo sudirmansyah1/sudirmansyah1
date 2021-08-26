@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sudirmansyah__" target="blank"><img src="https://img.shields.io/twitter/follow/sudirmansyah__?logo=twitter&style=for-the-badge" alt="sudirmansyah__" /></a> </p>
 
-- 👯 I’m on collaborate with **Indotribes Roleplay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
